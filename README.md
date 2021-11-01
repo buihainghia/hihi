@@ -15,3 +15,4 @@ const CONFIG = {
     reply: 'Em xin bái phục anh, anh là vô địch',
     mess: 'ok em anh sẽ nhận em làm đệ tử',
     
+    
